@@ -1,3 +1,3 @@
-# TemperatureWatcher
+# TemperatureMonitor
 
-A simple temperature 
+A simple temperature monitor using MVC.
